@@ -1,0 +1,50 @@
+.header {
+  background-color: var(--color-silver, #f5f7fa);
+}
+
+.header__bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 22px 120px 22px 105px;
+}
+
+.header__logo {
+  /* Добавить стили, если понадобятся */
+}
+
+.header_menu {
+  font-weight: var(--font-weight-medium, 500);
+}
+
+.header__item-list {
+  display: flex;
+  gap: 50px;
+}
+
+.header__item {
+  /* Добавить стили, если понадовятся */
+}
+
+.header__auth {
+  display: flex;
+  gap: 14px;
+}
+
+.section {
+  padding: 96px 144px;
+}
+
+.header__button {
+  /* Добавить стили, если понадовятся */
+}
+
+.button-primary {
+  background-color: var(--brand-primary, #4caf4f);
+  border: none;
+  color: var(--default-white, #FFF);
+}
+
+.icon-right {
+  
+}

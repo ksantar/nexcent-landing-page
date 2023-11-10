@@ -1,3 +1,13 @@
+:root {
+  --font-family: "Inter", sans-serif;
+  --font-size: 16px;
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-semi-bold: 600;
+  --font-weight-bold: 700;
+  --line-height: 150%;
+}
+
 @font-face {
   font-family: "Inter";
   src: url("Inter-Regular.woff2") format("woff2"),
